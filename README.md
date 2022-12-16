@@ -6,3 +6,5 @@ Our code usually runs just by running the cells sequentially, but unfortunately 
 The files are quite large and thus we are working on uploading them to GitHub, but they are not up at this time.
 
 In some of the cells we load in a model state from a mounted Drive as well.
+
+The link to the files and the model states is here: 
