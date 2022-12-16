@@ -7,4 +7,4 @@ The files are quite large and thus we are working on uploading them to GitHub, b
 
 In some of the cells we load in a model state from a mounted Drive as well.
 
-The link to the files and the model states is here: 
+The link to the files and the model states is here if they are needed: https://drive.google.com/drive/folders/1TRmypOU2wwILSsad4CuG_wZTkdgVkOP-?usp=share_link
